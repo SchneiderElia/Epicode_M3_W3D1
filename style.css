@@ -1,0 +1,42 @@
+ @font-face {
+    font-family: 'fa-regular';
+    src: url('fa-regular-400.woff2') format('woff2'),
+         url('feather.ttf') format('truetype');
+         font-weight: 400;
+    
+}
+
+header > div:nth-child(1) {
+ padding: 30px;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.bi-chevron-down {
+    font-size: 12px;
+    -webkit-text-stroke: 1px grey;
+    
+}
+
+.nav-link , .dropdown-item{
+    font-family: "fa-regular", sans-serif;
+    font-size: 1rem;   
+}
+
+.bell {
+   
+   
+    
+}
+
+.navbar-toggler{
+    border: solid 2px #7450fe;
+    padding: 0px;    
+}
+
+.navbar {
+    padding: 0px;    
+}
+
