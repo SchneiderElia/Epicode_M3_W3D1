@@ -23,7 +23,8 @@
 
 .navbar-toggler{
     border: solid 2px #7450fe;
-    padding: 0px;    
+    padding: 0px;   
+   
 }
 
 .navbar {
@@ -42,4 +43,20 @@ h4 {
 .btn-brrowseCurses {
     background-color:#1acb98;
     border-color: #1acb98;
+}
+
+.bi-camera-video, .bi-people, .bi-clock {
+    width: 70px;
+    height: 70px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    color: #c18134;
+    background-color: #ffeeda;
+    font-size: 25px;
+}
+
+h5 {
+    font-family: "fa-regular", sans-serif;
+    
 }
