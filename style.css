@@ -6,10 +6,6 @@
     
 }
 
-header > div:nth-child(1) {
- padding: 30px;
-}
-
 .dropdown-toggle::after {
     display: none;
 }
@@ -25,12 +21,6 @@ header > div:nth-child(1) {
     font-size: 1rem;   
 }
 
-.bell {
-   
-   
-    
-}
-
 .navbar-toggler{
     border: solid 2px #7450fe;
     padding: 0px;    
@@ -40,3 +30,16 @@ header > div:nth-child(1) {
     padding: 0px;    
 }
 
+#one {
+    background-color: #7450fe;
+}
+
+h4 {
+    font-family: "fa-regular", sans-serif;
+    font-size: clamp(1.125rem, 0.9241rem + 1.0714vw, 1.6875rem);
+}
+
+.btn-brrowseCurses {
+    background-color:#1acb98;
+    border-color: #1acb98;
+}
