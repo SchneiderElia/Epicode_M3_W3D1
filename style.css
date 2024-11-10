@@ -45,7 +45,7 @@ h4 {
     border-color: #1acb98;
 }
 
-.bi-camera-video, .bi-people, .bi-clock {
+#two i {
     width: 70px;
     height: 70px;
     display: inline-flex;
@@ -60,3 +60,13 @@ h5 {
     font-family: "fa-regular", sans-serif;
     
 }
+
+
+.bi-reception-4 {
+    color: #7450fe;
+}
+
+.bi-star-fill, .bi-star-half, .bi-star {
+    color:#feaa45 ;
+}
+
