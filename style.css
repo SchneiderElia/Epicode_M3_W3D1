@@ -62,7 +62,7 @@ h5 {
 }
 
 
-.bi-reception-4 {
+.bi-reception-4, .bi-reception-3, .bi-reception-1 {
     color: #7450fe;
 }
 
@@ -70,3 +70,19 @@ h5 {
     color:#feaa45 ;
 }
 
+
+.carousel-control-prev {
+    left: -150px;
+  }
+  
+  .carousel-control-next {
+    right: -127px; 
+
+  }
+
+  .bi-chevron-right, .bi-chevron-left {
+    color: #7450fe;
+    -webkit-text-stroke: 3px #7450fe;
+  }
+
+  
